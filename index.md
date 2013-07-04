@@ -10,6 +10,8 @@ Lýd doesn't exist in a intellectual void. It stands on the shoulders of giants 
 
 Your current organization is probably using something similar. Test what you are not using and report back. Contribute with your own experience.
 
+*Check out an introduction to liquid organizations at [Thinkship](http://thinkship.cc/en/introduction-to-liquid-organizations/). In this blog I will post further development and detailed information about Lýd.*
+
 ## Core values
 
 These are what must guide the development of any liqorg.
