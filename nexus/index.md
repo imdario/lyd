@@ -18,13 +18,13 @@ Any members' information can be used as nexus, createad automatically.
 
 Nexus aren't limited to characteristics. You can create *ex profeso* nexus that will be shared by members, for workgroups, committees, etc.
 
-Nexus act as sets. You can join them by sharing a [flow](/flow) (they are joined only from this flow's point of view), intersect them to get specialized nexus (e.g. communication team for a city), etc.
+Nexus act as sets. You can join them by sharing a [flow](/lyd/flow) (they are joined only from this flow's point of view), intersect them to get specialized nexus (e.g. communication team for a city), etc.
 
 Nexus can set a mandatory flow type. For example, a Nexus for announcements can be made of simple messages.
 
 ## Horizontality
 
-Nexus' horitzontaliy is handled through [delegation](/delegation), based in trust and non-blocking decision making.
+Nexus' horitzontaliy is handled through [delegation](/lyd/delegation), based in trust and non-blocking decision making.
 
 All decisions are taken through direct participation among nexus' members, unless delegation is active.
 

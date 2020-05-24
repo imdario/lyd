@@ -4,13 +4,13 @@
 
 Lýd is not a brand new software. Lýd is an open idea, a modifiable blueprint. It describes what is needed to build a working liquid organization (liqorg). Even under weak cohesion circumstances.
 
-If you use Lýd as guideline, please, explain to [me](/about) which tools and practices you adopt and develop.
+If you use Lýd as guideline, please, explain to [me](/lyd/) which tools and practices you adopt and develop.
 
 Lýd doesn't exist in a intellectual void. It stands on the shoulders of giants as [Rick Falkvinge's Swarmwise](http://falkvinge.net/2013/03/01/swarmwise-the-tactical-manual-to-changing-the-world-chapter-two/), [James S. Fishkin's deliberative democracy](http://en.wikipedia.org/wiki/Deliberative_democracy), [Alvin Toffler's adhocracy](http://en.wikipedia.org/wiki/Adhocracy), [Stephen R. Shalom's parpolity](http://en.wikipedia.org/wiki/Participatory_politics), etc.
 
 Your current organization is probably using something similar. Test what you are not using and report back. Contribute with your own experience.
 
-Check out an introduction to liquid organizations at [Thinkship](http://thinkship.cc/en/introduction-to-liquid-organizations/). In this blog I will post further development and detailed information about Lýd.
+Check out [an introduction to liquid organizations](/en/posts/introduction-liquid-organizations). In this blog I will post further development and detailed information about Lýd.
 
 ## Core values
 
@@ -22,13 +22,14 @@ These are what must guide the development of any liqorg.
 * **Accessibility:** customized interaction and experience to allow everybody to participate by their own means.
 * **Cooperation:** "share and remix" culture encouraged. Sharing best practices and projects between organizations is the way to engage better cooperation.
 
+<a id="core-concepts"></a>
 ## Core concepts
 
 Lýd has three core concepts as foundation. They are simple ideas distilled and combined from existing solutions.
 
-* **[Nexus](/nexus):** groups based on shared characteristics. A workgroup, territorial unit, knowledge subject, etc.
-* **[Flow](/flow):** anything which exists inside an organization in any time span. E.g. projects, conversations, tasks, etc.
-* **[Delegation](/delegation):** from liquid democracy, leadership based in trust and non-blocking decision making.
+* **[Nexus](/lyd/nexus):** groups based on shared characteristics. A workgroup, territorial unit, knowledge subject, etc.
+* **[Flow](/lyd/flow):** anything which exists inside an organization in any time span. E.g. projects, conversations, tasks, etc.
+* **[Delegation](/lyd/delegation):** from liquid democracy, leadership based in trust and non-blocking decision making.
 
 ## How it works?
 
@@ -44,9 +45,9 @@ Or check the following tl;dr.
 
 ## tl;dr: what is a liqorg?
 
-A liquid organization is a decentralized and organic structure, composed by functional groups ([nexus](/nexus)) based on members' shared characteristics and needs.
+A liquid organization is a decentralized and organic structure, composed by functional groups ([nexus](/lyd/nexus)) based on members' shared characteristics and needs.
 
-Everybody inside a liqorg can access any nexus' [flows](/flow) (conversation, projects, tasks, polls, etc). A liqorg can go full public (even conversations, with masked names) or on demand (to publish a conversation which turned into rumors on media).
+Everybody inside a liqorg can access any nexus' [flows](/lyd/flow) (conversation, projects, tasks, polls, etc). A liqorg can go full public (even conversations, with masked names) or on demand (to publish a conversation which turned into rumors on media).
 
 Nexus are created automatically by members features (city, language, you say it) and manually on demand (workgroups, committees). Nexus can have hierarchy. Nexus are accessible by mail (as mailing lists) or web (as forums).
 
